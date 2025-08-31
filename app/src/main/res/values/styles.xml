@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SystemServiceTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#667eea</item>
+        <item name="colorPrimaryDark">#764ba2</item>
+        <item name="colorAccent">#48bb78</item>
+        <item name="android:windowBackground">@drawable/gradient_background</item>
+        <item name="android:statusBarColor">#2a5298</item>
+    </style>
+</resources>

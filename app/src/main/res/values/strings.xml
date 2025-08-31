@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">System Service</string>
+    <string name="service_running">System Service Active</string>
+    <string name="service_stopped">System Service Stopped</string>
+    <string name="connecting">Connecting to system server...</string>
+    <string name="connected">Connected to system server</string>
+    <string name="disconnected">Disconnected from system server</string>
+    <string name="permission_required">Permissions required for system monitoring</string>
+    <string name="notification_title">System Service</string>
+    <string name="notification_text">Secure system monitoring active</string>
+    <string name="auto_start_enabled">Auto-start enabled</string>
+    <string name="system_monitoring">System Monitoring</string>
+    <string name="secure_connection">Secure Connection Established</string>
+    <string name="data_sync_active">Data synchronization active</string>
+</resources>
